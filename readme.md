@@ -24,8 +24,11 @@ Esportare quindi il diagramma in jpg e caricarlo nella repo.
 
 ## Consegna 2:
 
-Dopo aver creato un nuovo database nel vostro MySQL Workbench e aver importato lo schema allegato, eseguite le query del file allegato.
-
-Cosa consegnare?
+Dopo aver creato un nuovo database nel vostro MySQL Workbench e aver importato lo schema allegato, eseguite le query del file allegato. Cosa consegnare?
 
 1. Dopo aver testato le vostre query con MySQL Workbench, riportatele in un file txt e caricatelo nella vostra repo.
+
+## Consegna 3:
+
+Utilizzando lo stesso database, eseguite le query in allegato.
+Caricate un secondo file nella stessa repo (db-university) con le query di oggi.
