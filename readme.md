@@ -2,7 +2,7 @@
 
 **db-university**
 
-## Consegna:
+## Consegna 1:
 
 Modellizzare la struttura di un database per memorizzare tutti i dati riguardanti una università:
 
@@ -21,3 +21,11 @@ Utilizzare https://drawsql.app/ per la creazione dello schema.
 Esportare quindi il diagramma in jpg e caricarlo nella repo.
 
 [DrawSQL](https://drawsql.app/draw)
+
+## Consegna 2:
+
+Dopo aver creato un nuovo database nel vostro MySQL Workbench e aver importato lo schema allegato, eseguite le query del file allegato.
+
+Cosa consegnare?
+
+1. Dopo aver testato le vostre query con MySQL Workbench, riportatele in un file txt e caricatelo nella vostra repo.
