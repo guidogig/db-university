@@ -55,3 +55,15 @@ FROM
 
 
 7. BONUS: Selezionare per ogni studente il numero di tentativi sostenuti per ogni esame, stampando anche il voto massimo. Successivamente, filtrare i tentativi con voto minimo 18.
+
+SELECT 
+    b.id,
+    CONCAT(b.name, ' ', b.surname) AS STUDENTE,
+    COUNT(a.student_id) AS 'TENTATIVI',
+    MAX(a.vote) AS 'VOTO MASSIMO'
+FROM
+    exam_student a
+        JOIN
+    students b ON a.student_id = b.id
+GROUP BY b.id;
+
